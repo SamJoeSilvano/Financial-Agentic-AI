@@ -9,3 +9,6 @@ streamlit
 pandas
 tantivy
 yfinance
+plotly
+google-genai
+plotly-express
